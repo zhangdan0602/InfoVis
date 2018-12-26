@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 
     <title>Tree Example</title>
-    <script src="/lib/d3.v3.min.js" charset="utf-8"></script>
+    <script src="../lib/d3.v3.min.js" charset="utf-8"></script>
     <style>
     .node text {
       font: 8px sans-serif;
@@ -36,8 +36,9 @@ var svg = d3.select("body").append("svg")
 
 
 //创建一个树布局
-var tree = d3.layout.tree()
+var tree = d3.layout.cluster()
     .size([height, width])
+  
 
 //过渡延迟时间
 var i = 0,
@@ -50,7 +51,7 @@ var diagonal = d3.svg.diagonal()
 
 d3.select(self.frameElement).style("height", "00px");
 
-d3.json("./treeData.json", function(data) {
+d3.json("../data/treeData.json", function(data) {
   root = data;//treeData为上边定义的节点属性
   root.x0 = height / 2;
   root.y0 = 0;
