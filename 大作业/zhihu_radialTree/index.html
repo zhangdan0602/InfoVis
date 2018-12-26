@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+
+	<body>
+		<!‐‐ 引入Echarts3包 ‐‐>
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+
+		<body>
+			<!‐‐ 引入Jquery包 ‐‐>
+			<script type="text/javascript" src="js/echarts.min.js"></script>
+			<h1>tree演示</h1>
+			<div id="main" style="width: 1020px;height:800px;"></div>
+			<script type="text/javascript">
+				// 基于准备好的dom，初始化echarts实例
+				var myChart = echarts.init(document.getElementById('main'));
+				myChart.showLoading();
+				$.getJSON('data/treeData.json', function(data) {
+
+					myChart.hideLoading();
+					echarts.util.each(data.children, function(datum, index) {
+						index % 2 === 0 && (datum.collapsed = true);
+					});
+
+					myChart.setOption(option = {
+						tooltip: {
+							trigger: 'item',
+							triggerOn: 'mousemove'
+						},
+						series: [{
+							type: 'tree',
+
+							data: [data],
+
+							top: '18%',
+							bottom: '14%',
+
+							layout: 'radial',
+
+							symbol: 'emptyCircle',
+
+							symbolSize: 7,
+
+							initialTreeDepth: 7,
+
+							animationDurationUpdate: 750
+
+						}]
+					});
+				});
+			</script>
+		</body>
+
+</html>
