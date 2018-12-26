@@ -1,0 +1,1840 @@
+{
+	"name": "电影",
+	"value": 22940604,
+	"children": [
+		{
+			"name": "王义之",
+			"value": 197673,
+			"children": [
+				{
+					"name": "电影",
+					"value": 22940604,
+					"children": [
+						{
+							"name": "王义之",
+							"value": 197673,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影产业",
+									"value": 1803564
+								}, {
+									"name": "电影营销公司",
+									"value": 1250
+								}, {
+									"name": "电影院",
+									"value": 4527
+								}, {
+									"name": "电影推荐",
+									"value": 4360840
+								}
+							]
+						}, {
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}, {
+							"name": "Martin",
+							"value": 181448,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电视",
+									"value": 21454
+								}, {
+									"name": "电视台",
+									"value": 3079
+								}, {
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "摄影",
+									"value": 9334007
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}
+					]
+				}, {
+					"name": "电影产业",
+					"value": 1803564,
+					"children": [
+						{
+							"name": "王义之",
+							"value": 197673,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影产业",
+									"value": 1803564
+								}, {
+									"name": "电影营销公司",
+									"value": 1250
+								}, {
+									"name": "电影院",
+									"value": 4527
+								}, {
+									"name": "电影推荐",
+									"value": 4360840
+								}
+							]
+						}, {
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}
+					]
+				}, {
+					"name": "电影营销公司",
+					"value": 1250
+				}, {
+					"name": "电影院",
+					"value": 4527,
+					"children": [
+						{
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}, {
+							"name": "腾飞",
+							"value": 98127,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影发行",
+									"value": 7658
+								}, {
+									"name": "互联网",
+									"value": 13580855
+								}, {
+									"name": "北京",
+									"value": 120858
+								}, {
+									"name": "情感",
+									"value": 1098500
+								}
+							]
+						}, {
+							"name": "王义之",
+							"value": 197673,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影产业",
+									"value": 1803564
+								}, {
+									"name": "电影营销公司",
+									"value": 1250
+								}, {
+									"name": "电影院",
+									"value": 4527
+								}, {
+									"name": "电影推荐",
+									"value": 4360840
+								}
+							]
+						}
+					]
+				}, {
+					"name": "电影推荐",
+					"value": 4360840,
+					"children": [
+						{
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "Ronnie X",
+			"value": 259591,
+			"children": [
+				{
+					"name": "电影",
+					"value": 22940604,
+					"children": [
+						{
+							"name": "王义之",
+							"value": 197673,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影产业",
+									"value": 1803564
+								}, {
+									"name": "电影营销公司",
+									"value": 1250
+								}, {
+									"name": "电影院",
+									"value": 4527
+								}, {
+									"name": "电影推荐",
+									"value": 4360840
+								}
+							]
+						}, {
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}, {
+							"name": "Martin",
+							"value": 181448,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电视",
+									"value": 21454
+								}, {
+									"name": "电视台",
+									"value": 3079
+								}, {
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "摄影",
+									"value": 9334007
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}
+					]
+				}, {
+					"name": "美股",
+					"value": 222027,
+					"children": [
+						{
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "Cody",
+							"value": 39806,
+							"children": [
+								{
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "金融",
+									"value": 9175915
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "经济学",
+									"value": 10985081
+								}, {
+									"name": "心理学",
+									"value": 19353892
+								}
+							]
+						}, {
+							"name": "weizhi pan",
+							"value": 164531,
+							"children": [
+								{
+									"name": "债券",
+									"value": 88058
+								}, {
+									"name": "唐纳德·约翰·特朗普（Donald J. Trump）",
+									"value": 87130
+								}, {
+									"name": "信用评级",
+									"value": 835
+								}, {
+									"name": "心理学",
+									"value": 19353892
+								}, {
+									"name": "长生生物",
+									"value": 63160
+								}
+							]
+						}, {
+							"name": "丝绒",
+							"value": 60984,
+							"children": [
+								{
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "股票",
+									"value": 1152396
+								}, {
+									"name": "证券",
+									"value": 140394
+								}, {
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "金融学",
+									"value": 1852346
+								}
+							]
+						}, {
+							"name": "陈达",
+							"value": 29666,
+							"children": [
+								{
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "金融",
+									"value": 9175915
+								}, {
+									"name": "价值投资",
+									"value": 47265
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}
+					]
+				}, {
+					"name": "投资",
+					"value": 3295449,
+					"children": [
+						{
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "Alex",
+							"value": 185205,
+							"children": [
+								{
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "理财",
+									"value": 1969234
+								}, {
+									"name": "基金",
+									"value": 268666
+								}, {
+									"name": "股票",
+									"value": 1152396
+								}, {
+									"name": "银行",
+									"value": 279860
+								}
+							]
+						}, {
+							"name": "王端端",
+							"value": 211852,
+							"children": [
+								{
+									"name": "金融",
+									"value": 9175915
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "理财",
+									"value": 1969234
+								}, {
+									"name": "基金",
+									"value": 268666
+								}, {
+									"name": "P2P 网络借贷平台",
+									"value": 37548
+								}
+							]
+						}, {
+							"name": "Luo Patrick",
+							"value": 355371,
+							"children": [
+								{
+									"name": "首次公开募股（IPO）",
+									"value": 149979
+								}, {
+									"name": "企业并购",
+									"value": 134596
+								}, {
+									"name": "数学",
+									"value": 355963
+								}, {
+									"name": "概率",
+									"value": 18557
+								}, {
+									"name": "德州扑克",
+									"value": 469846
+								}
+							]
+						}, {
+							"name": "Raymond Wang",
+							"value": 674479,
+							"children": [
+								{
+									"name": "法律",
+									"value": 10303825
+								}, {
+									"name": "风险投资（VC）",
+									"value": 339842
+								}, {
+									"name": "首次公开募股（IPO）",
+									"value": 149979
+								}, {
+									"name": "创业法务",
+									"value": 47128
+								}, {
+									"name": "私募股权（PE）",
+									"value": 179441
+								}
+							]
+						}
+					]
+				}, {
+					"name": "音乐",
+					"value": 14002338
+				}, {
+					"name": "商业",
+					"value": 11531676,
+					"children": [
+						{
+							"name": "汪惟",
+							"value": 457329,
+							"children": [
+								{
+									"name": "美食",
+									"value": 16335619
+								}, {
+									"name": "生活",
+									"value": 13939547
+								}, {
+									"name": "烹饪",
+									"value": 4228471
+								}, {
+									"name": "创业",
+									"value": 8689128
+								}, {
+									"name": "调查类问题",
+									"value": 186407
+								}
+							]
+						}, {
+							"name": "温义飞",
+							"value": 227806,
+							"children": [
+								{
+									"name": "经济学",
+									"value": 10985081
+								}, {
+									"name": "历史",
+									"value": 2984164
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "经济学常识",
+									"value": 2443657
+								}, {
+									"name": "经济史",
+									"value": 29562
+								}
+							]
+						}, {
+							"name": "波旬",
+							"value": 430538,
+							"children": [
+								{
+									"name": "市场营销",
+									"value": 2604834
+								}
+							]
+						}, {
+							"name": "以太创服",
+							"value": 155356,
+							"children": [
+								{
+									"name": "创业",
+									"value": 8689128
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}, {
+									"name": "风险投资（VC）",
+									"value": 339842
+								}, {
+									"name": "创业公司",
+									"value": 130938
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}
+							]
+						}, {
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "magasa",
+			"value": 544198,
+			"children": [
+				{
+					"name": "英语",
+					"value": 2108652,
+					"children": [
+						{
+							"name": "栗子",
+							"value": 119313,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "英语学习",
+									"value": 520936
+								}, {
+									"name": "英语口语",
+									"value": 137113
+								}, {
+									"name": "外国人",
+									"value": 26805
+								}, {
+									"name": "IELTS（雅思）",
+									"value": 288303
+								}
+							]
+						}, {
+							"name": "梁海",
+							"value": 267202,
+							"children": [
+								{
+									"name": "字体",
+									"value": 1487288
+								}, {
+									"name": "字体排印",
+									"value": 41071
+								}, {
+									"name": "字体设计",
+									"value": 288804
+								}, {
+									"name": "标点符号",
+									"value": 1638
+								}, {
+									"name": "语言学",
+									"value": 72567
+								}
+							]
+						}, {
+							"name": "Brian",
+							"value": 112844,
+							"children": [
+								{
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "留学",
+									"value": 1017060
+								}, {
+									"name": "留学美国",
+									"value": 141670
+								}, {
+									"name": "美国文化",
+									"value": 22564
+								}, {
+									"name": "美国生活",
+									"value": 10030
+								}
+							]
+						}, {
+							"name": "吴涛",
+							"value": 240998,
+							"children": [
+								{
+									"name": "德国",
+									"value": 66635
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "字体",
+									"value": 1487288
+								}, {
+									"name": "旅行",
+									"value": 15357190
+								}, {
+									"name": "欧洲",
+									"value": 49033
+								}
+							]
+						}
+					]
+				}, {
+					"name": "翻译",
+					"value": 109454,
+					"children": [
+						{
+							"name": "经雷",
+							"value": 153901,
+							"children": [
+								{
+									"name": "建筑",
+									"value": 5315864
+								}, {
+									"name": "烹饪",
+									"value": 4228471
+								}, {
+									"name": "佛教",
+									"value": 71993
+								}, {
+									"name": "房子",
+									"value": 30430
+								}, {
+									"name": "字体设计",
+									"value": 288804
+								}
+							]
+						}, {
+							"name": "栗子",
+							"value": 119313,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "英语学习",
+									"value": 520936
+								}, {
+									"name": "英语口语",
+									"value": 137113
+								}, {
+									"name": "外国人",
+									"value": 26805
+								}, {
+									"name": "IELTS（雅思）",
+									"value": 288303
+								}
+							]
+						}, {
+							"name": "吴涛",
+							"value": 240998,
+							"children": [
+								{
+									"name": "德国",
+									"value": 66635
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "字体",
+									"value": 1487288
+								}, {
+									"name": "旅行",
+									"value": 15357190
+								}, {
+									"name": "欧洲",
+									"value": 49033
+								}
+							]
+						}, {
+							"name": "梁海",
+							"value": 267202,
+							"children": [
+								{
+									"name": "字体",
+									"value": 1487288
+								}, {
+									"name": "字体排印",
+									"value": 41071
+								}, {
+									"name": "字体设计",
+									"value": 288804
+								}, {
+									"name": "标点符号",
+									"value": 1638
+								}, {
+									"name": "语言学",
+									"value": 72567
+								}
+							]
+						}
+					]
+				}, {
+					"name": "媒体",
+					"value": 90480,
+					"children": [
+						{
+							"name": "Raymond Wang",
+							"value": 674479,
+							"children": [
+								{
+									"name": "法律",
+									"value": 10303825
+								}, {
+									"name": "风险投资（VC）",
+									"value": 339842
+								}, {
+									"name": "首次公开募股（IPO）",
+									"value": 149979
+								}, {
+									"name": "创业法务",
+									"value": 47128
+								}, {
+									"name": "私募股权（PE）",
+									"value": 179441
+								}
+							]
+						}, {
+							"name": "风端",
+							"value": 8062,
+							"children": [
+								{
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "新媒体",
+									"value": 86214
+								}, {
+									"name": "iPad",
+									"value": 87411
+								}, {
+									"name": "南方周末",
+									"value": 9847
+								}, {
+									"name": "传统媒体",
+									"value": 1451
+								}
+							]
+						}, {
+							"name": "田吉顺",
+							"value": 765541,
+							"children": [
+								{
+									"name": "医学",
+									"value": 8140690
+								}, {
+									"name": "健康",
+									"value": 9026284
+								}, {
+									"name": "医生",
+									"value": 366256
+								}, {
+									"name": "怀孕",
+									"value": 252729
+								}, {
+									"name": "妇产科学",
+									"value": 819539
+								}
+							]
+						}
+					]
+				}, {
+					"name": "武侠",
+					"value": 62031,
+					"children": [
+						{
+							"name": "言少",
+							"value": 67906,
+							"children": [
+								{
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "金庸",
+									"value": 216807
+								}, {
+									"name": "古龙",
+									"value": 24019
+								}, {
+									"name": "文学",
+									"value": 6921037
+								}, {
+									"name": "电影",
+									"value": 22940604
+								}
+							]
+						}, {
+							"name": "康复期精神病人",
+							"value": 39716,
+							"children": [
+								{
+									"name": "金庸",
+									"value": 216807
+								}, {
+									"name": "文学",
+									"value": 6921037
+								}, {
+									"name": "法律",
+									"value": 10303825
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "历史",
+									"value": 2984164
+								}
+							]
+						}, {
+							"name": "叶莺莺",
+							"value": 9142,
+							"children": [
+								{
+									"name": "金庸",
+									"value": 216807
+								}, {
+									"name": "写作",
+									"value": 658590
+								}, {
+									"name": "三体（书籍）",
+									"value": 246103
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}, {
+									"name": "漫威（Marvel Comics）",
+									"value": 230718
+								}
+							]
+						}, {
+							"name": "居士说",
+							"value": 61003,
+							"children": [
+								{
+									"name": "网络小说",
+									"value": 93834
+								}, {
+									"name": "金庸",
+									"value": 216807
+								}, {
+									"name": "西游记（书籍）",
+									"value": 80483
+								}, {
+									"name": "P社游戏",
+									"value": 6001
+								}, {
+									"name": "地质学",
+									"value": 91575
+								}
+							]
+						}
+					]
+				}, {
+					"name": "NBA",
+					"value": 482955,
+					"children": [
+						{
+							"name": "张佳玮",
+							"value": 2026265
+						}, {
+							"name": "笑道人",
+							"value": 405495
+						}, {
+							"name": "猫三",
+							"value": 12507,
+							"children": [
+								{
+									"name": "NBA",
+									"value": 482955
+								}, {
+									"name": "篮球",
+									"value": 2845057
+								}, {
+									"name": "NBA 球员",
+									"value": 61038
+								}, {
+									"name": "体育",
+									"value": 8953233
+								}, {
+									"name": "心理",
+									"value": 507245
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "Martin",
+			"value": 181448,
+			"children": [
+				{
+					"name": "电影",
+					"value": 22940604,
+					"children": [
+						{
+							"name": "王义之",
+							"value": 197673,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影产业",
+									"value": 1803564
+								}, {
+									"name": "电影营销公司",
+									"value": 1250
+								}, {
+									"name": "电影院",
+									"value": 4527
+								}, {
+									"name": "电影推荐",
+									"value": 4360840
+								}
+							]
+						}, {
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}, {
+							"name": "Martin",
+							"value": 181448,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电视",
+									"value": 21454
+								}, {
+									"name": "电视台",
+									"value": 3079
+								}, {
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "摄影",
+									"value": 9334007
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}
+					]
+				}, {
+					"name": "电视",
+					"value": 21454,
+					"children": [
+						{
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}, {
+							"name": "幸运星",
+							"value": 141003,
+							"children": [
+								{
+									"name": "调查类问题",
+									"value": 186407
+								}, {
+									"name": "互联网",
+									"value": 13580855
+								}, {
+									"name": "生活",
+									"value": 13939547
+								}, {
+									"name": "创业",
+									"value": 8689128
+								}, {
+									"name": "职业发展",
+									"value": 10140869
+								}
+							]
+						}, {
+							"name": "Nordenbox",
+							"value": 410002,
+							"children": [
+								{
+									"name": "美国电影",
+									"value": 147314
+								}, {
+									"name": "文学",
+									"value": 6921037
+								}, {
+									"name": "苹果公司 (Apple Inc.)",
+									"value": 3170170
+								}, {
+									"name": "PlayStation 4",
+									"value": 54744
+								}, {
+									"name": "科幻电影",
+									"value": 131131
+								}
+							]
+						}
+					]
+				}, {
+					"name": "电视台",
+					"value": 3079
+				}, {
+					"name": "美国",
+					"value": 226549,
+					"children": [
+						{
+							"name": "talich",
+							"value": 435966,
+							"children": [
+								{
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "健康",
+									"value": 9026284
+								}, {
+									"name": "医学",
+									"value": 8140690
+								}, {
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "癌症",
+									"value": 67800
+								}
+							]
+						}, {
+							"name": "Raymond Wang",
+							"value": 674479,
+							"children": [
+								{
+									"name": "法律",
+									"value": 10303825
+								}, {
+									"name": "风险投资（VC）",
+									"value": 339842
+								}, {
+									"name": "首次公开募股（IPO）",
+									"value": 149979
+								}, {
+									"name": "创业法务",
+									"value": 47128
+								}, {
+									"name": "私募股权（PE）",
+									"value": 179441
+								}
+							]
+						}, {
+							"name": "王瑞恩",
+							"value": 327621,
+							"children": [
+								{
+									"name": "新闻",
+									"value": 486761
+								}, {
+									"name": "驾驶",
+									"value": 78922
+								}, {
+									"name": "ofo 押金",
+									"value": 3400
+								}, {
+									"name": "足球运动员",
+									"value": 6791
+								}, {
+									"name": "2018年10月新番",
+									"value": 5193
+								}
+							]
+						}
+					]
+				}, {
+					"name": "摄影",
+					"value": 9334007,
+					"children": [
+						{
+							"name": "砸场子",
+							"value": 54336,
+							"children": [
+								{
+									"name": "摄影",
+									"value": 9334007
+								}, {
+									"name": "相机",
+									"value": 792730
+								}, {
+									"name": "摄影器材",
+									"value": 1105906
+								}, {
+									"name": "胶片",
+									"value": 13812
+								}, {
+									"name": "胶片摄影",
+									"value": 10844
+								}
+							]
+						}, {
+							"name": "惊奇影像",
+							"value": 91184,
+							"children": [
+								{
+									"name": "摄影",
+									"value": 9334007
+								}, {
+									"name": "摄影技巧",
+									"value": 2967383
+								}, {
+									"name": "单反相机",
+									"value": 216714
+								}, {
+									"name": "摄影师",
+									"value": 248056
+								}, {
+									"name": "摄影器材",
+									"value": 1105906
+								}
+							]
+						}, {
+							"name": "叶明",
+							"value": 334916,
+							"children": [
+								{
+									"name": "摄影",
+									"value": 9334007
+								}, {
+									"name": "设计",
+									"value": 13706217
+								}, {
+									"name": "法律",
+									"value": 10303825
+								}, {
+									"name": "生活",
+									"value": 13939547
+								}, {
+									"name": "篮球",
+									"value": 2845057
+								}
+							]
+						}, {
+							"name": "金釗立",
+							"value": 169863,
+							"children": [
+								{
+									"name": "摄影",
+									"value": 9334007
+								}, {
+									"name": "Adobe Photoshop",
+									"value": 2507994
+								}, {
+									"name": "日本",
+									"value": 1121459
+								}, {
+									"name": "字体",
+									"value": 1487288
+								}, {
+									"name": "动漫",
+									"value": 6675787
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"name": "张小北",
+			"value": 787315,
+			"children": [
+				{
+					"name": "电影",
+					"value": 22940604,
+					"children": [
+						{
+							"name": "王义之",
+							"value": 197673,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电影产业",
+									"value": 1803564
+								}, {
+									"name": "电影营销公司",
+									"value": 1250
+								}, {
+									"name": "电影院",
+									"value": 4527
+								}, {
+									"name": "电影推荐",
+									"value": 4360840
+								}
+							]
+						}, {
+							"name": "Ronnie X",
+							"value": 259591,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "美股",
+									"value": 222027
+								}, {
+									"name": "投资",
+									"value": 3295449
+								}, {
+									"name": "音乐",
+									"value": 14002338
+								}, {
+									"name": "商业",
+									"value": 11531676
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}, {
+							"name": "Martin",
+							"value": 181448,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电视",
+									"value": 21454
+								}, {
+									"name": "电视台",
+									"value": 3079
+								}, {
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "摄影",
+									"value": 9334007
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}
+					]
+				}, {
+					"name": "导演",
+					"value": 91657,
+					"children": [
+						{
+							"name": "Martin",
+							"value": 181448,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "电视",
+									"value": 21454
+								}, {
+									"name": "电视台",
+									"value": 3079
+								}, {
+									"name": "美国",
+									"value": 226549
+								}, {
+									"name": "摄影",
+									"value": 9334007
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}
+					]
+				}, {
+					"name": "编剧",
+					"value": 88897,
+					"children": [
+						{
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}, {
+							"name": "朱太帅",
+							"value": 122461,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "影视评论",
+									"value": 358966
+								}, {
+									"name": "剧本",
+									"value": 44199
+								}, {
+									"name": "生活",
+									"value": 13939547
+								}
+							]
+						}, {
+							"name": "柏邦妮",
+							"value": 149502,
+							"children": [
+								{
+									"name": "一百年很长吗（纪录片）",
+									"value": 66
+								}
+							]
+						}
+					]
+				}, {
+					"name": "电影制作",
+					"value": 236124,
+					"children": [
+						{
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}, {
+							"name": "Nordenbox",
+							"value": 410002,
+							"children": [
+								{
+									"name": "美国电影",
+									"value": 147314
+								}, {
+									"name": "文学",
+									"value": 6921037
+								}, {
+									"name": "苹果公司 (Apple Inc.)",
+									"value": 3170170
+								}, {
+									"name": "PlayStation 4",
+									"value": 54744
+								}, {
+									"name": "科幻电影",
+									"value": 131131
+								}
+							]
+						}, {
+							"name": "magasa",
+							"value": 544198,
+							"children": [
+								{
+									"name": "英语",
+									"value": 2108652
+								}, {
+									"name": "翻译",
+									"value": 109454
+								}, {
+									"name": "媒体",
+									"value": 90480
+								}, {
+									"name": "武侠",
+									"value": 62031
+								}, {
+									"name": "NBA",
+									"value": 482955
+								}
+							]
+						}
+					]
+				}, {
+					"name": "科幻",
+					"value": 3477578,
+					"children": [
+						{
+							"name": "大乘虚怀苦",
+							"value": 23016,
+							"children": [
+								{
+									"name": "克苏鲁 (Cthulhu)",
+									"value": 33470
+								}, {
+									"name": "SCP Foundation",
+									"value": 49771
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}, {
+									"name": "脑洞（网络用语）",
+									"value": 530187
+								}, {
+									"name": "电影",
+									"value": 22940604
+								}
+							]
+						}, {
+							"name": "张小北",
+							"value": 787315,
+							"children": [
+								{
+									"name": "电影",
+									"value": 22940604
+								}, {
+									"name": "导演",
+									"value": 91657
+								}, {
+									"name": "编剧",
+									"value": 88897
+								}, {
+									"name": "电影制作",
+									"value": 236124
+								}, {
+									"name": "科幻",
+									"value": 3477578
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
